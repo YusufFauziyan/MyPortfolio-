@@ -541,6 +541,10 @@ img{
     width: 50%;
 }
 
+.skills__premier{
+    width: 55%;
+}
+
 .skills__close .skills__list{
     height: 0;
     overflow: hidden;
